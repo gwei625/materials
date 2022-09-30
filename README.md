@@ -91,4 +91,8 @@ knowledge URL
 89. https://justinyan.me/post/2420
 90. https://new.shuge.org/view/sui_shu/
 91. https://gitee.com/progit/1-%E8%B5%B7%E6%AD%A5.html#1.1-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6
-92. 
+92. https://scottmeyers.blogspot.com/
+93. https://eater.net/6502
+94. https://zhuanlan.zhihu.com/p/143665068
+95. https://zhuanlan.zhihu.com/p/367104892
+96. 
